@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I am Ladislau V. T. Tavares
 
-<!--
-**ladislautavares/ladislautavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+Somethings about me:
+
+- 🔭 I’m currently working on Artificial Intelligence
+- 🌱 I’m currently learning Python programming language (pandas, nunpy, matplotlib, seaborn)
+- 👯 I’m looking to collaborate on Advanced Institute for Artifical Intelligence and HUB of AI (Londrina - PR - Brazil)
+- 🤔 I’m looking for help with Data Science and Machine Learning
+- 💬 Ask me about Physics, Statistic and python for Data Science
+- 📫 How to reach me: ladislautavares@gmail.com
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
--->
