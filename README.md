@@ -2,7 +2,7 @@
 
 
 
-Somethings about me:
+Something about me:
 
 - 🔭 I’m currently working on Artificial Intelligence
 - 🌱 I’m currently learning Python programming language (pandas, nunpy, matplotlib, seaborn)
