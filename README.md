@@ -31,3 +31,13 @@ Something about me:
   <a href="https://www.linkedin.com/in/ladislau-vieira-teixeira-tavares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href="https://github.com/ladislautavares" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 </div>
+
+##
+ ## Published Articles
+
+* [Transient solutions to the heat diffusion equation: Learning mathematic from different solution methods](https://www.researchgate.net/publication/302982450_Solucoes_da_equacao_de_difusao_de_calor_em_regime_transiente_Aprendendo_matematica_com_diferentes_metodos_de_solucao)
+
+* [Supersymmetric Quantum Spherical Spins](https://arxiv.org/abs/1806.05656)
+
+* [Supersymmetric Quantum Spherical Spins with Short-Range Interactions](https://arxiv.org/abs/1910.04007)
+
