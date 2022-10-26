@@ -4,11 +4,15 @@
 
 Something about me:
 
-- 🔭 I’m currently working on Artificial Intelligence
-- 🌱 I’m currently learning Python programming language (pandas, nunpy, matplotlib, seaborn)
-- 👯 I’m looking to collaborate on Advanced Institute for Artifical Intelligence and HUB of AI (Londrina - PR - Brazil)
-- 🤔 I’m looking for help with Data Science and Machine Learning
-- 💬 Ask me about Physics, Statistic and python for Data Science
+- 🔭 I am currently working on Artificial Intelligence as resident in the HUB of AI (Londrina - PR - Brazil) in collaborating with the Advanced Institute for Artifical Intelligence (AI2).
+- 🌱 I am currently learning Python programming language focusing in Data Science. Below you can view some the libraries in which I have experience:
+ 1. Pandas;
+2. Numpy;
+3. Matplotlib
+4. Seaborn;
+5. Streamlit;
+6. Scikit-learn;
+7. Statsmodels.
 - 📫 How to reach me: ladislautavares@gmail.com
 
 <div align="center">
