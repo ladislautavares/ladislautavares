@@ -1,4 +1,5 @@
-### Hi there 👋 I am Ladislau V. T. Tavares
+### Hi there! 👋 
+### I am Ladislau V. T. Tavares
 
 
 
@@ -14,6 +15,23 @@ Something about me:
 6. Scikit-learn;
 7. Statsmodels.
 - 📫 How to reach me: ladislautavares@gmail.com
+
+##
+
+## Undergraduation courses:
+1. Bachelor in Phisics - Londrina State University;
+2. Licenciate in Phisics - Londrina State University.
+##
+
+## Graduation courses:
+1. Master in Phisics (quantum information) - Londrina State University;
+2. Doctorate in Phisics (statistical physics) - Londrina State University.
+##
+
+## Work experience:
+1. Physics and mathematics in the high school (2021 - 2022);
+2. Physics voluntary teacher (2016 - 2021).
+##
 
 <div align="center">
   <a href="https://github.com/ladislautavares">
