@@ -10,7 +10,6 @@ Something about me:
 - 🤔 I’m looking for help with Data Science and Machine Learning
 - 💬 Ask me about Physics, Statistic and python for Data Science
 - 📫 How to reach me: ladislautavares@gmail.com
-- 😄 Pronouns: he/him
 
 <div align="center">
   <a href="https://github.com/ladislautavares">
